@@ -12,6 +12,8 @@ Features:
 - Category performance
 ## Dashboard Screenshots
 
-![Dashboard 1](dashboard1.png)
-![Dashboard 2](dashboard2.png)
-![Dashboard 3](dashboard3.png)
+![Dashboard 1](Dashboard1.png)
+
+![Dashboard 2](Dashboard2.png)
+
+![Dashboard 3](Dashboard3.png)
